@@ -12,7 +12,7 @@ This project is a spell-checker written in C that uses a hash table for fast loo
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spell-checker.git
+   git clone https://github.com/yourusername/spelling-checker.git
    ```
 2. Navigate to the project directory:
    ```bash
