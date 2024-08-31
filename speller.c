@@ -195,3 +195,4 @@ double calculate(const struct rusage *b, const struct rusage *a)
                 1000000.0);
     }
 }
+
