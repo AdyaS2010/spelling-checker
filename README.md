@@ -37,6 +37,9 @@ Check word: example
 Found!
 ```
 
+![image](https://github.com/user-attachments/assets/e7094b6b-f803-46d1-b516-f1b22c2adf2e)
+*List of words found - couldn't even screenshot the whole content!*
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch:
